@@ -1,1 +1,7 @@
-
+.text {
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 200;
+    &__menu{
+        color: var(--color-secondary);
+    }
+}
